@@ -1,2 +1,4 @@
 This is one sentence
 This is another
+
+2nd conflict sentence
